@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+.main_table {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: black;
+}
+.main_table td {
+    margin: 10px;
+    background-color: #93bf95;
+}
+
+.main_table thead td{
+    font-weight: bold;
+    background-color: antiquewhite;
+    color: black;
+}
+
+.main_table tr {
+    text-align: center;
+}
+
+.main_table img {
+    height: 70px;
+}
